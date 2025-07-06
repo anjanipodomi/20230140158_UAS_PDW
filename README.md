@@ -1,3 +1,9 @@
+halaman registrasi ![image](https://github.com/user-attachments/assets/f0ab78ad-0c92-43db-9f4f-d04559ddc0c0)
+
+
+halaman login ![image](https://github.com/user-attachments/assets/5b4dc3e4-cecf-41c2-a9a6-fa7f957c5e82)
+
+
 halaman mahasiswa ![image](https://github.com/user-attachments/assets/b0c284d2-475b-4ac7-844c-54aaf4d5ef94)
 
 
